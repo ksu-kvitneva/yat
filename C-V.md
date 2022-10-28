@@ -32,7 +32,7 @@ title: C.V
  * Sep 2016: Best oral presentation at LabEx ICST Young researchers meeting (Nice, France).
 
 **Career Breaks:**  
-2019: XX months of maternity leave.
+2019: 07 months of maternity leave.
 
 (For a full CV, please contact me at [iamshanova.oksana@gmail.com](iamshanova.oksana@gmail.com))
 
