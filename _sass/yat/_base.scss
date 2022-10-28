@@ -16,7 +16,7 @@ dl, dd, ol, ul, figure {
 body {
   font-family: $base-font-family;
   font-weight: $base-font-weight;
-  font-size: #{$base-font-size};
+  font-size: #{$base-font-size * 1.2};
   line-height: #{$base-line-height};
   color: $text-color;
   background-color: $background-color;
@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-color;
+  color: #5F9EA0;
   text-decoration: none;
 
   &:hover {
@@ -224,13 +224,13 @@ table {
   }
 
   th {
-    background-color: lighten($grey-color-light, 3%);
-    border: 1px solid darken($grey-color-light, 4%);
+    background-color: #fff;
+    border: #fff;
     border-bottom-color: darken($grey-color-light, 12%);
   }
 
   td {
-    border: 1px solid $grey-color-light;
+    border: 1px solid $grey-color-light ;
   }
 }
 
