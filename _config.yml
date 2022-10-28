@@ -57,4 +57,8 @@ plugins:
 # theme: owner/name --> Don't forget to remove/comment the gem-based theme option
 remote_theme: "jeffreytse/jekyll-theme-yat"
 header_pages:
+  - home.md
   - about_me.md
+  - C-V.md
+  - publications.html
+  - https://orcid.org/0000-0002-1984-0013
