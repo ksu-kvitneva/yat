@@ -23,7 +23,7 @@ email: iamshanova.oksana@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Dr Oksana Iamshanova.
 baseurl: "yat" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ksu-kvitneva.githug.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iamshanovaO
 github_username:  
 
