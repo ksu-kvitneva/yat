@@ -5,9 +5,8 @@ title: C.V
 
 # Short CV - Oksana Iamshanova
 
-**Website & Social links:** [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/oksana-iamshanova-4958aa4a/),
- [![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png) https://orcid.org/0000-0002-1984-0013](https://orcid.org/0000-0002-1984-0013), [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/IamshanovaO.svg?style=social&label=Follow%20%40IamshanvaO)](https://twitter.com/IamshanovaO)
-
+**Website & Social links:**  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/IamshanovaO.svg?style=social&label=IamshanvaO)](https://twitter.com/IamshanovaO), [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/oksana-iamshanova-4958aa4a/),
+ [![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png) https://orcid.org/0000-0002-1984-0013](https://orcid.org/0000-0002-1984-0013).
 
 **Research Interests:** Ion channels, sodium channels.
 
