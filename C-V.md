@@ -18,7 +18,7 @@ title: C.V
 **Contributed presentations at International Conferences**: 12 talks, 12 posters. 
 
  **Academic Positions:**  
-- 2020 - 2023: Postdoc at the University of Bern, <a class="post-link" href="https://abriellab.org/" target="_blank">Hugues Abriel Laboratory </a>. 
+- 2020 - 2023: Postdoc at the University of Bern, <a class="post-link" href="https://abriellab.org/" target="_blank">Ion channel & channelopathy research group</a>. 
 - 2019 - 2020: Postdoc at the University of Lille, Laboratory of Cell Physiology.  
 - 2013 - 2017: PhD candidate at the University of Lille, Laboratory of Cell Physiology.  
 - 2012 - 2013: Visiting researcher at Imperial College London in the Neuroscience solutions to cancer.   
