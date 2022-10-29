@@ -7,11 +7,11 @@ banner: "/assets/images/IMG_4740a.jpg"
 
 I am a researcher at the Institute of Biochemistry and Molecular Medicine of the University of Bern,
 Switzerland.  
-
+<br>
 My research work focuses on the field of ion channels and their role in different pathologies. In
 particular, I study how various protein partners of cardiac ion channels regulate their biophysical
 properties contributing to arrhythmias in the heart.  
-
+<br>
 I am originally from Ukraine. There, I completed my undergraduate studies in Biology at Taras
 Shevchenko National University of Kyiv. Afterwards, I moved to the United Kingdom for Masters in
 Biochemical Research program at Imperial College London and to France to do my PhD at the
