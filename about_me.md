@@ -5,8 +5,18 @@ date:   2022-10-08 22:05:32 +0200
 banner: "/assets/images/IMG_4740a.jpg"
 ---
 
-I am a postdoc at the Hugues Abriel laboratory of the University of Bern, Switzerland.  
-I work on the field of ion channels. Specifically, I am interested in the biophysical properties of the cardiac voltage-gated sodium channel Na<sub>v</sub>1.5 and how they can be regualted by its protein partners.
+I am a researcher at the Institute of Biochemistry and Molecular Medicine of the University of Bern,
+Switzerland.
+My research work focuses on the field of ion channels and their role in different pathologies. In
+particular, I study how various protein partners of cardiac ion channels regulate their biophysical
+properties contributing to arrhythmias in the heart.
+I am originally from Ukraine. There, I completed my undergraduate studies in Biology at Taras
+Shevchenko National University of Kyiv. Afterwards, I moved to the United Kingdom for Masters in
+Biochemical Research program at Imperial College London and to France to do my PhD at the
+University of Lille. In 2020 I came to Switzerland for my postdoctoral research.
+
+
+
 
 <!--
 I was born in Kyiv, Ukraine, where I compelted my undergraduates studies in Biology, at the Taras Shevchenko University.    
