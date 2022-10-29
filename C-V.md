@@ -5,6 +5,10 @@ title: C.V
 
 # Short CV - Oksana Iamshanova
 
+**Website & Social links:** [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/oksana-iamshanova-4958aa4a/)
+&nbsp
+ [![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png) https://orcid.org/0000-0002-1984-0013](https://orcid.org/0000-0002-1984-0013)
+
 **Research Interests:** Ion channels, sodium channels.
 
 **Current Position:** Postdoc in Hugues Abriel's laboratory, University of Bern, Switzerland.
