@@ -34,6 +34,9 @@ title: C.V
  * Dec 2018: Best poster presentation at Ion Channels and Immunity Symposium (New York, USA).
  * Nov 2018: Best poster presentation at the 27th ARTP annual meeting (Paris, France).
  * Sep 2016: Best oral presentation at LabEx ICST Young researchers meeting (Nice, France).
+ * Dec 2016: PhD funding from the Ligue National Contre le Cancer GB/MA/CD 11813 (2013-2016, France).
+ * Mar 2011: Travel grant for attending the Education Without Borders Conference (Dubai, UAE).
+ * Sep 2007: Ukrainian governmental scholarship for BSc studies (Kyiv, Ukraine).
 
 **Career Breaks:**  
 2019: 07 months of maternity leave.
