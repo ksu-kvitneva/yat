@@ -8,23 +8,24 @@ title: C.V
 **Website & Social links:**  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/IamshanovaO.svg?style=social&label=IamshanvaO)](https://twitter.com/IamshanovaO), [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/oksana-iamshanova-4958aa4a/),
  [![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png) https://orcid.org/0000-0002-1984-0013](https://orcid.org/0000-0002-1984-0013).
 
-**Research Interests:** Ion channels, sodium channels.
+**Research Interests:** Ion channels, channelopathies, macromolecular protein complex, oligomerization.
 
-**Current Position:** Postdoc in Hugues Abriel's laboratory, University of Bern, Switzerland.
+**Current Position:** Postdoc in the "<a class="post-link" href="https://abriellab.org/" target="_blank">Ion Channel & Channelopathy</a> research group headed by Pr. Hugues Abriel, University of Bern, Switzerland.
 
 **Education:**  
 - 2017: PhD in Molecular and cellular aspects of biology (Biology-Health), University of Lille, France.  
 - 2012: MRes in Biochemical Research, Imperial College London, United Kingdom.
+- 2011: BSc in Biology, Taras Shevchenko National University of Kyiv, Ukraine. 
 
-**Publications:** 7 publications in peer-reviewed International Journals (2 first author), 2 preprint publications on bioRxiv (first author).  
+**Publications:** 7 publications in peer-reviewed International Journals, 2 preprint publications on bioRxiv (first author).  
 
 **Contributed presentations at International Conferences**: 12 talks, 12 posters. 
 
  **Academic Positions:**  
-- 2020 - 2023: Postdoc at the University of Bern, <a class="post-link" href="https://abriellab.org/" target="_blank">Ion channel & channelopathy research group</a>. 
+- 2020 - 2023: Postdoc at the University of Bern, "Ion Channel & Channelopathy" research group. 
 - 2019 - 2020: Postdoc at the University of Lille, Laboratory of Cell Physiology.  
 - 2013 - 2017: PhD candidate at the University of Lille, Laboratory of Cell Physiology.  
-- 2012 - 2013: Visiting researcher at Imperial College London in the Neuroscience solutions to cancer.   
+- 2012 - 2013: Visiting researcher at Imperial College London, "Neuroscience Solutions to Cancer" research group.   
 
 
 **Awards and Grants:**  
