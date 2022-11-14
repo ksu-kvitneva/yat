@@ -30,7 +30,7 @@ title: C.V
 
 **Awards and Grants:**  
  * Sep 2022: Talk prize award at Swiss Physiology Meeting 2022 (Bern, Switzerland).
- * Jul 2022: Poster prize award at LS<sup>2</sup>Cardio 2022 (Bern, Switzerland).
+ * Jul 2022: Poster prize award at LS<sup>2</sup> Cardiovascular Research Meeting 2022 (Bern, Switzerland).
  * Dec 2018: Best poster presentation at Ion Channels and Immunity Symposium (New York, USA).
  * Nov 2018: Best poster presentation at the 27th ARTP annual meeting (Paris, France).
  * Sep 2016: Best oral presentation at LabEx ICST Young researchers meeting (Nice, France).
